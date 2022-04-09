@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_multiplication_layout.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/multiplication_layout.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_activity_result_exercice.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/activity_result_exercice.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_activity_exercice_table_mult.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/activity_exercice_table_mult.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_activity_selection_exercice_maths.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/activity_selection_exercice_maths.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_activity_exercice_calcul_mental.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/activity_exercice_calcul_mental.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_activity_maths_questions_test.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/activity_maths_questions_test.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/layout_activity_table_multiplication_test.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/layout/activity_table_multiplication_test.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

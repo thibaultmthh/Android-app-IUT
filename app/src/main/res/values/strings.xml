@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mathiathLoustic</string>
+    <string name="exercices_disponibles">Exercices disponibles :</string>
+    <string name="button_math">Maths</string>
+    <string name="button_culturg">Culture G</string>
+    <string name="consigne_math">Click on the good awnser</string>
+    <string name="table_de_multiplication">Table de multiplication</string>
+    <string name="calcul_mental">Calcul mental</string>
+    <string name="home">Home</string>
+    <string name="activit_es_disponibles">Activitées disponibles</string>
+    <string name="valider">Valider</string>
+    <string name="info_ex_serie"> Serie %1$d / 5</string>
+    <string name="score_final">Score %1$s/200</string>
+</resources>

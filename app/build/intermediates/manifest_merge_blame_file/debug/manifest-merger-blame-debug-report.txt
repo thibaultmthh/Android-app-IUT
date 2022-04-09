@@ -1,0 +1,108 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mathiathloustic"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:5:5-39:19
+12        android:allowBackup="true"
+12-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] /tmp/mathiath-.gradle/caches/transforms-3/376792b261fdcbfd86757f02ea12377d/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.MathiathLoustic" >
+20-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:11:9-53
+21        <activity
+21-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:12:9-14:39
+22            android:name="com.example.mathiathloustic.result_exercice"
+22-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:13:13-44
+23            android:exported="true" />
+23-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:14:13-36
+24        <activity
+24-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:15:9-17:39
+25            android:name="com.example.mathiathloustic.Exercice_calcul_mental"
+25-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:16:13-51
+26            android:exported="true" />
+26-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:17:13-36
+27        <activity
+27-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:18:9-20:39
+28            android:name="com.example.mathiathloustic.Exercice_table_mult"
+28-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:19:13-48
+29            android:exported="true" />
+29-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:20:13-36
+30        <activity
+30-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:21:9-23:39
+31            android:name="com.example.mathiathloustic.Selection_exercice_maths"
+31-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:22:13-53
+32            android:exported="true" />
+32-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:23:13-36
+33        <activity
+33-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:24:9-26:39
+34            android:name="com.example.mathiathloustic.TableMultiplication"
+34-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:25:13-48
+35            android:exported="true" />
+35-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:26:13-36
+36        <activity
+36-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:27:9-29:39
+37            android:name="com.example.mathiathloustic.MathsQuestions"
+37-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:28:13-43
+38            android:exported="true" />
+38-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:29:13-36
+39        <activity
+39-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:30:9-38:20
+40            android:name="com.example.mathiathloustic.MainActivity"
+40-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:31:13-41
+41            android:exported="true" >
+41-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:32:13-36
+42            <intent-filter>
+42-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:33:13-37:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:34:17-69
+43-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:34:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:36:17-77
+45-->/users/info/etu-s4/mathiath/AndroidStudioProjects/mathiathLoustic/app/src/main/AndroidManifest.xml:36:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.0.0] /tmp/mathiath-.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.0.0] /tmp/mathiath-.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+51            android:authorities="com.example.mathiathloustic.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.0.0] /tmp/mathiath-.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.0.0] /tmp/mathiath-.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.0.0] /tmp/mathiath-.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.0.0] /tmp/mathiath-.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.0.0] /tmp/mathiath-.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] /tmp/mathiath-.gradle/caches/transforms-3/e3d5f7348f31abeaadb43deed4aab633/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] /tmp/mathiath-.gradle/caches/transforms-3/e3d5f7348f31abeaadb43deed4aab633/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] /tmp/mathiath-.gradle/caches/transforms-3/e3d5f7348f31abeaadb43deed4aab633/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>
